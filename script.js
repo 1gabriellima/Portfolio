@@ -221,7 +221,7 @@ window.addEventListener('scroll', () => {
     });
 });
 
-// Efeito de digitação no título (opcional)
+// Efeito de digitação no título 
 function typeWriter(element, text, speed = 100) {
     let i = 0;
     element.textContent = '';
@@ -300,4 +300,5 @@ rippleStyle.textContent = `
         }
     }
 `;
+
 document.head.appendChild(rippleStyle);
