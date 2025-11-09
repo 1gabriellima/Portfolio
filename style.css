@@ -1,4 +1,4 @@
-* {/* Reset e Variáveis */
+/* Reset e Variáveis */
 * {
     margin: 0;
     padding: 0;
@@ -714,5 +714,4 @@ footer {
         width: 32px;
         height: 32px;
     }
-}
 }
